@@ -26,7 +26,7 @@ const por2 = document.querySelector(".for:nth-child(2)");
 const por3 = document.querySelector(".for:nth-child(3)");
 
 // audio terima kasihku (guru)
-const music = new Audio("./mp3/terima-kasihku.mp3");
+// const music = new Audio("./mp3/terima-kasihku.mp3");
 
 const selamat = document.querySelector(".selamat");
 const hari = document.querySelector(".hari");
@@ -90,7 +90,7 @@ window.onload = () => {
                 this.classList.toggle("skala-satu");
                 this.classList.toggle("opasiti-satu");
                 kotakDua.classList.toggle("opasiti-sengah");
-                music.play();
+                // music.play();
 
                 // ilang
                 kotakDua.classList.toggle("x-100");
