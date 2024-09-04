@@ -1,6 +1,6 @@
-# Hari Guru Nasional
+# Happy Teachers Day Jayant Sir
 
-<img src="img/300px.png" height="200" alt="Hari Guru Nasional Banner"/>
+<img src="img/300px.png" height="200" alt="Happy Teachers Day"/>
 
 Happy Teacher's Day to all the teachers who have helped us become exceptional students! 🎓✨
 
